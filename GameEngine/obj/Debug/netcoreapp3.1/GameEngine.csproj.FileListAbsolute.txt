@@ -1,0 +1,9 @@
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.deps.json
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.dll
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.pdb
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfo.cs
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.dll
+C:\Users\Kinjal.Shah\source\repos\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.pdb
